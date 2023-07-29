@@ -1,1 +1,1 @@
-# Getting Started with React-app for tailwind css
+#React-app with tailwind-css integrated
